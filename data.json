@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Inception",
+    "releaseYear": "2010",
+    "genre": "Science Fiction, Action",
+    "coverUrl": "https://example.com/inception.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "releaseYear": "1994",
+    "genre": "Drama, Crime",
+    "coverUrl": "https://example.com/shawshank-redemption.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "releaseYear": "2008",
+    "genre": "Action, Crime, Drama",
+    "coverUrl": "https://example.com/dark-knight.jpg"
+  },
+  {
+    "title": "The Smart Money Woman",
+    "releaseYear": "2024",
+    "genre": "Drama",
+    "coverUrl": "https://example.com/dark-knight.jpg"
+  },
+  {
+    "title": "Offshoot",
+    "releaseYear": "2024",
+    "genre": "Action, Crime",
+    "coverUrl": "https://example.com/dark-knight.jpg"
+  }
+]
